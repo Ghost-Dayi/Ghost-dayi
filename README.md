@@ -1,0 +1,2 @@
+# Ghost-dayi
+blog.text
